@@ -129,11 +129,6 @@ section img .apple-icon {
   color: #bdc3c7;
 }
 
-.drawing .splide__slide img {
-  width: 350px !important;
-  height: 500px !important;
-}
-
 .button-two {
   border-radius: 4px;
   background-color:#6daffe;
